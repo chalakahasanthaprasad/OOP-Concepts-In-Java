@@ -4,6 +4,11 @@ OOP Concepts In Java
 Inheritance
 
 When one object acquires all the properties and behaviors of a parent object, it is known as inheritance. It provides code reusability. It is used to achieve runtime polymorphism.
+In Java, it is possible to inherit attributes and methods from one class to another. We group the "inheritance concept" into two 
+categories:
+1.subclass (child) - the class that inherits from another class
+2.superclass (parent) - the class being inherited from
+To inherit from a class, use the extends keyword.
 
 
 
